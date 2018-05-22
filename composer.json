@@ -1,0 +1,14 @@
+{
+    "name": "Slav73/brain-games",
+    "description": "first project",
+    "authors": [
+        {
+            "name": "Slav Shutrow",
+            "email": "shutrow@rambler.ru"
+        }
+    ],
+  "bin": [
+    "bin/brain-games"
+  ],	
+    "require": {}
+}
